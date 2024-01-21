@@ -1,6 +1,8 @@
 # Jessica Été (@kohrVid)
 
-[![Free Palestine](https://img.shields.io/badge/Ceasefire_Now-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)](https://techforpalestine.org/learn-more)
+[![Free Palestine](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)](https://www.techforpalestine.org)
+
+
 
 Sometimes my stuff is here --> https://www.gitlab.com/kohrVid
 
