@@ -21,17 +21,17 @@ Sometimes it's somewhere else entirely
 
 Things I've used before (albeit with varying degrees of success):
 
-[![Backend:](https://skillicons.dev/icons?i=ruby,rails,go,scala,python,java,spring,lua,django,wordpress)](https://skillicons.dev)
+[![Backend:](https://skillicons.dev/icons?i=ruby,rails,go,scala,python,java,gradle,lua,spring,django,wordpress)](https://skillicons.dev)
 
 [![Frontend:](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,typescript,vite,npm,yarn,coffeescript,jquery,gatsby)](https://skillicons.dev)
 
-[![DevOps:](https://skillicons.dev/icons?i=docker,terraform,kubernetes,gitlab,github,nginx,heroku,aws,gcp,bitbucket)](https://skillicons.dev)
+[![DevOps:](https://skillicons.dev/icons?i=docker,terraform,kubernetes,gitlab,github,nginx,heroku,aws,gcp,jenkins,bitbucket)](https://skillicons.dev)
 
 [![Testing:](https://skillicons.dev/icons?i=rspec,selenium,jest,ngrok)](https://skillicons.dev)
 
-[![Databases:](https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,mongodb)](https://skillicons.dev)
+[![Databases:](https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite,mongodb,elasticsearch)](https://skillicons.dev)
 
-[![Data:](https://skillicons.dev/icons?i=jupyter,pandas,latex)](https://skillicons.dev)
+[![Data:](https://skillicons.dev/icons?i=jupyter,latex,anaconda,pandas)](https://skillicons.dev)
 
 [![Streaming & Messaging:](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
 
